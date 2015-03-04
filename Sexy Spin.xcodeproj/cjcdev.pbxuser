@@ -1,0 +1,177 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* AdultSpin */ = {
+		activeExec = 0;
+		executables = (
+			C0B0503A0FE88E5400EEE4FF /* iErotica */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* AdultSpinViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1560, 3906}}";
+			sepNavSelRange = "{7630, 0}";
+			sepNavVisRange = "{1392, 1453}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C0B0503A0FE88E5400EEE4FF /* iErotica */;
+		activeSDKPreference = iphoneos3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AdultSpin */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* AdultSpin */,
+		);
+		codeSenseManager = C0B050490FE88E7C00EEE4FF /* Code sense */;
+		executables = (
+			C0B0503A0FE88E5400EEE4FF /* iErotica */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					659,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					619,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 267403842;
+			PBXWorkspaceStateSaveDate = 267403842;
+		};
+		perUserProjectItems = {
+			C079CF060FE9F22000913900 /* PBXBookmark */ = C079CF060FE9F22000913900 /* PBXBookmark */;
+			C079CF0B0FE9F22000913900 /* PBXBookmark */ = C079CF0B0FE9F22000913900 /* PBXBookmark */;
+			C079CF3C0FEA0F3000913900 /* PBXBookmark */ = C079CF3C0FEA0F3000913900 /* PBXBookmark */;
+			C079CF3E0FEA0F3000913900 /* PBXBookmark */ = C079CF3E0FEA0F3000913900 /* PBXBookmark */;
+			C0D6C3D90FE9006400323643 /* PlistBookmark */ = C0D6C3D90FE9006400323643 /* PlistBookmark */;
+			C0E4BBB90FF04992008472BC /* PlistBookmark */ = C0E4BBB90FF04992008472BC /* PlistBookmark */;
+			C0E4BBBA0FF04992008472BC /* PlistBookmark */ = C0E4BBBA0FF04992008472BC /* PlistBookmark */;
+		};
+		sourceControlManager = C0B050480FE88E7C00EEE4FF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C079CF060FE9F22000913900 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2BF0DBFE0FE4166E0027A450 /* background.jpg */;
+	};
+	C079CF0B0FE9F22000913900 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2BF0DBFE0FE4166E0027A450 /* background.jpg */;
+	};
+	C079CF3C0FEA0F3000913900 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2B342FFD0FE5FB07003F4A4D /* Icon.png */;
+	};
+	C079CF3E0FEA0F3000913900 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2B342FFD0FE5FB07003F4A4D /* Icon.png */;
+	};
+	C0B0503A0FE88E5400EEE4FF /* iErotica */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iErotica;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	C0B050480FE88E7C00EEE4FF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	C0B050490FE88E7C00EEE4FF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C0D6C3D90FE9006400323643 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Shared/iPhone Dev/Complete Apps/iErotica/iErotica copy/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	C0E4BBB90FF04992008472BC /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/Shared/iPhone Dev/Complete Apps/iErotica/Adult Spin/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	C0E4BBBA0FF04992008472BC /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/Shared/iPhone Dev/Complete Apps/iErotica/Adult Spin/Info.plist";
+		rLen = 22;
+		rLoc = 0;
+	};
+}
